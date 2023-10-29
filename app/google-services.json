@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829554920267",
+    "project_id": "testclothshop-dcba2",
+    "storage_bucket": "testclothshop-dcba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829554920267:android:4a0088ad0a0187ef44f6ce",
+        "android_client_info": {
+          "package_name": "com.example.testclothshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1QxNouhthWWmO7sds0lxyzqgmVpuPeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
